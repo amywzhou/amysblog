@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "posts/Happiness and COVID-19 Project.html",
+    "href": "posts/Happiness and COVID-19 Project.html",
+    "title": "Happiness and COVID-19",
+    "section": "",
+    "text": "Amy Zhou\nDH 140\nProfessor Winjum\nMarch 24, 2023"
+  },
+  {
+    "objectID": "posts/Happiness and COVID-19 Project.html#findings",
+    "href": "posts/Happiness and COVID-19 Project.html#findings",
+    "title": "Happiness and COVID-19",
+    "section": "Findings",
+    "text": "Findings\nTo conclude, the findings from the data analysis are as follows:\nHow has happiness by country shifted between 2019-2021, the time frame of the COVID-19 pandemic? Which countries had the greatest positive and negative shifts in happiness?\nThe max happiness score between 2019-21 appears to increase very slightly each year. The mean and minimum happiness score betwen 2019-21 appears to decrease each year. However, the number of countries that increased or decreased in happiness nor the extent of each country’s shift in happiness can be determined by examining the mean, max, and minimum happiness scores.\nBetween 2019-20, Afghanistan had the greatest positive shift in happiness while Liberia had the most negative shift in happiness. Between 2020-21, Pakistan had the greatest positive shift in happiness while Armenia had the most negative shift in happiness.\nHow did happiness factors shift and affect happiness scores between 2019-2021?\nThe factors GDP per capita, Social support, healthy life expectancy, and freedom to make life decisions appear to have a direct relationship with the happiness score such that an high value in any of the four factors usually indicates a higher-level happiness score. Generosity and perception of corruption do not appear to have a clear relationship with happiness scores such that high values in either factors did not necessarily correlate with high happiness scores. Thus, the shifts in generosity and perception of corruption were not examined for their impacts on the happiness scores between 2019-21.\n\n\n\n\n\n\n\n\n\nContributing Factor\n2019-20 Trend + Impact\n2019-20 Trend + Impact\nPotential Causes\n\n\n\n\nGDP per Capita\nDecreased Contribution; Decreased Happiness Score\nIncreased Contribution; Increased Happiness Score\nClosing and Reopening local economies due to shelter in place mandates\n\n\nSocial Support\nDecreased Contribution; Decreased Happiness Score\nDecreased Contribution; Decreased Happiness Score\nSocial distancing and shelter in place mandates\n\n\nHealthy Life Expectancy\nDecreased Contribution; Decreased Happiness Score\nDecreased Contribution; Decreased Happiness Score\nCOVID-19 Deaths at all ages\n\n\nFreedom in Life Choices\nIncreased Contribution; Increased Happiness Score\nIncreased Contribution; Increased Happiness Score\nWorkplace flexibility\n\n\n\nIs there a correlation between happiness score and COVID-19 severity?\nThe scattergraph of Covid Cases per Capita vs Happiness Score does not have a linear fit, as evidenced by a low R-squared value. There may be other correlations, but the scattergraph does not appear to follow any polynomial fits at this time."
+  },
+  {
+    "objectID": "posts/Happiness and COVID-19 Project.html#importance",
+    "href": "posts/Happiness and COVID-19 Project.html#importance",
+    "title": "Happiness and COVID-19",
+    "section": "Importance",
+    "text": "Importance\nThe findings are valuable in a variety of ways. Happiness should be one of the top priorties of every government; understanding how pandemics impact happiness factors is critical for creating action plans for the next pandemic that may hit. For example, the major decrease in social support during the pandemic must be addressed: how might countries upkeep a social network for citizens when they must stay socially distanced?\nThe findings reveal that case per capita severity is not a sole indicator of country happiness. It is possible for countries with low case counts to be on the lower end of the happiness spectrum, and it is possible for countries with high case counts to be on the higher end of the happiness spectrum. The lack of correlation suggests that country happiness during a pandemic may depend on other factors, such as country response and support systems in place.\nUnderstanding the factors of happiness and their changes during the pandemic is also valuable for mental health professionals. During the pandemic, numerous studies reported a plunge in mental health and an overwhelmed mental health indsutry. By being aware of what may be the root of many clients’ problems, mental health specialists are better able to address the issues and suggest preventative or resolutionary measures."
+  },
+  {
+    "objectID": "posts/Happiness and COVID-19 Project.html#future-analysis-and-considerations",
+    "href": "posts/Happiness and COVID-19 Project.html#future-analysis-and-considerations",
+    "title": "Happiness and COVID-19",
+    "section": "Future Analysis and Considerations",
+    "text": "Future Analysis and Considerations\nIt is important to note that the results of this study are limited. A potential source of error includes inconsistent country participation in world happiness surveys. Due to the pandemic, survey response collection was hindered in some countries. This may lead to a skew toward results from countries that are faring better than average. Future studies may opt to eliminate data from countries not present in all three survey years between 2019-21 to reduce error. Additionally, data for COVID cases could be sourced from a larger time range; the data readily available and used in this analysis only covers the range of 12/2019-12/2020.\nWhile conducting this data analysis, it became evident that there are many factors that can tie into the results. A wholistic and multi-faceted study is necessary to fully assess the dynamic of happiness scores during a pandemic. Government response to pandemics, medical ability and accessibillity per country, and cultural differences in evaluating happiness are just a few additional factors that could be considered."
+  },
+  {
     "objectID": "posts/FinalProjectCode.html",
     "href": "posts/FinalProjectCode.html",
     "title": "amysblog",
@@ -39,6 +67,6 @@
     "href": "index.html",
     "title": "amysblog",
     "section": "",
-    "text": "Introduction\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst File\n\n\n\n\n\nTesting Quarto\n\n\n\n\n\n\nMar 10, 2023\n\n\nAmy Zhou\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 10, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 7, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Introduction\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nHappiness and COVID-19\n\n\n\n\n\nDH140 Final Project\n\n\n\n\n\n\nMar 24, 2023\n\n\nAmy Zhou\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst File\n\n\n\n\n\nTesting Quarto\n\n\n\n\n\n\nMar 10, 2023\n\n\nAmy Zhou\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 10, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 7, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]
